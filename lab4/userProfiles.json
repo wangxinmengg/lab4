@@ -1,0 +1,40 @@
+{
+    "users": [
+        {
+            "firstName": "张",
+            "lastName": "三",
+            "email": "zhangsan@example.com",
+            "birthDate": "1990-01-01",
+            "preferences": {
+                "theme": "dark",
+                "language": "中文",
+                "notifications": true,
+                "subscription": "basic"
+            }
+        },
+        {
+            "firstName": "李",
+            "lastName": "四",
+            "email": "lisi@example.com",
+            "birthDate": "1985-05-15",
+            "preferences": {
+                "theme": "light",
+                "language": "英文",
+                "notifications": false,
+                "subscription": "pro"
+            }
+        },
+        {
+            "firstName": "王",
+            "lastName": "五",
+            "email": "wangwu@example.com",
+            "birthDate": "1992-12-10",
+            "preferences": {
+                "theme": "high-contrast",
+                "language": "日语",
+                "notifications": true,
+                "subscription": "enterprise"
+            }
+        }
+    ]
+}
